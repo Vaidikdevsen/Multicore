@@ -3,9 +3,9 @@
 	"id": "multicore",
 	"version": "${version}",
 	"name": "multicore",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A Mod which enable muli core and threads world generation",
 	"authors": [
-		"Me!"
+		"Vaidik"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
